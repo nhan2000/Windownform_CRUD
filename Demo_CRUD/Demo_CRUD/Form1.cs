@@ -147,11 +147,11 @@ namespace Demo_CRUD
         private void StudentRecordData(object sender, DataGridViewCellEventArgs e)
         {
             StudentID = Convert.ToInt32(StudentData.Rows[0].Cells[0].Value);
-            txtTen.Text = StudentData.SelectedRows[0].Cells[0].Value.ToString();
-            txtHo.Text = StudentData.SelectedRows[0].Cells[1].Value.ToString();
-            txtSBD.Text = StudentData.SelectedRows[0].Cells[2].Value.ToString();
-            txtDiaChi.Text = StudentData.SelectedRows[0].Cells[3].Value.ToString();
-            txtSDT.Text = StudentData.SelectedRows[0].Cells[4].Value.ToString();
+            txtTen.Text = StudentData.SelectedRows[0].Cells[1].Value.ToString();
+            txtHo.Text = StudentData.SelectedRows[0].Cells[2].Value.ToString();
+            txtSBD.Text = StudentData.SelectedRows[0].Cells[3].Value.ToString();
+            txtDiaChi.Text = StudentData.SelectedRows[0].Cells[4].Value.ToString();
+            txtSDT.Text = StudentData.SelectedRows[0].Cells[5].Value.ToString();
         }
 
 

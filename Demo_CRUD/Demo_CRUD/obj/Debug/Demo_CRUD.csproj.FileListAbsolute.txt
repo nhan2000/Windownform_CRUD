@@ -8,3 +8,13 @@ D:\Bài Tập Môn Học\Windownform\Demo_CRUD\Demo_CRUD\bin\Debug\Demo_CRUD.exe
 D:\Bài Tập Môn Học\Windownform\Demo_CRUD\Demo_CRUD\bin\Debug\Demo_CRUD.pdb
 D:\Bài Tập Môn Học\Windownform\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.exe
 D:\Bài Tập Môn Học\Windownform\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.pdb
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\bin\Debug\Demo_CRUD.exe.config
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\bin\Debug\Demo_CRUD.exe
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\bin\Debug\Demo_CRUD.pdb
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.csprojAssemblyReference.cache
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.Form1.resources
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.Properties.Resources.resources
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.csproj.GenerateResource.cache
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.exe
+D:\BÀI TẬP MÔN HỌC\Lập trình API\WindownForM_CRUD\Windownform_CRUD\Demo_CRUD\Demo_CRUD\obj\Debug\Demo_CRUD.pdb
